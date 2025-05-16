@@ -25,7 +25,7 @@
 ## 📌 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-sarode2004/)  
 - 💻 [GitHub](https://github.com/i-am-pratham)  
-- 📫 Reach me: sarodeprathamesh05@gmail.com  
+- 📫 Reach me: sarodeprathamesh26@gmail.com  
 
 ---
 
