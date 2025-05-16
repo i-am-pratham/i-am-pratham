@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Prathamesh Sarode
 
-<!--
-**i-am-pratham/i-am-pratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science student | 🛠️ Aspiring DevOps & Cloud Developer  
+🌱 Currently learning **Git, GitHub, Flask, and DevOps tools**  
+🚀 Passionate about building and learning in public!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Current Learning Journey
+- ✅ Completed Git & GitHub (Thanks to [Chai aur Code](https://www.youtube.com/@ChaiAurCode) by Hitesh Choudhary sir)
+- 🧪 Building a **Flask project** using Git and GitHub
+- ☁️ Diving into AWS & DevOps tools
+- 💻 Working through Striver's A2Z DSA Sheet
+
+---
+
+## 🔧 Technologies I'm Working With
+- Python, Flask  
+- Git & GitHub  
+- HTML, CSS  
+- Linux & Command Line Basics  
+- Learning AWS and DevOps fundamentals
+
+---
+
+## 📌 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-sarode)  
+- 💻 [GitHub](https://github.com/i-am-pratham)  
+- 📫 Reach me: sarodeprathamesh05@gmail.com  
+
+---
+
+*“Learning by doing. Growing one commit at a time.”* 🚀
