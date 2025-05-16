@@ -7,7 +7,6 @@
 ---
 
 ## 🚧 Current Learning Journey
-- ✅ Completed Git & GitHub (Thanks to [Chai aur Code](https://www.youtube.com/@ChaiAurCode) by Hitesh Choudhary sir)
 - 🧪 Building a **Flask project** using Git and GitHub
 - ☁️ Diving into AWS & DevOps tools
 - 💻 Working through Striver's A2Z DSA Sheet
@@ -24,7 +23,7 @@
 ---
 
 ## 📌 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-sarode)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-sarode2004/)  
 - 💻 [GitHub](https://github.com/i-am-pratham)  
 - 📫 Reach me: sarodeprathamesh05@gmail.com  
 
